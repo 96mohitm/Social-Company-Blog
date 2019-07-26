@@ -1,4 +1,4 @@
-Create a anaconda virtual environment.
+Create a python virtual environment.
 
 In this project we will be using python3.7 
 
