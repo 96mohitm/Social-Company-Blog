@@ -59,7 +59,6 @@ def logout():
 
 
 # account (update UserForm)
-# account (update UserForm)
 @users.route('/account',methods=['GET','POST'])
 @login_required
 def account():
